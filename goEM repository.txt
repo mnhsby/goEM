@@ -1,0 +1,15 @@
+Isi
+1. Berita
+2. Jurnal
+3. Pemeliharaan
+4. Perbaikan
+5. Service Manual
+6. SOP
+7. User Manual
+
+Link
+1. Homepage
+2. Gallery
+3. Contact us
+4. About us
+5. Demo
